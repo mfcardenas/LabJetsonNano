@@ -59,8 +59,6 @@ GR3D_FREQ 0%@918
 
 Si aparece `GR3D_FREQ`, la GPU está activa.
 
----
-
 ## 4. Verificar CUDA
 
 ```bash
@@ -208,5 +206,5 @@ No es una GPU de datacenter.
 * LLM pequeños combinando CPU y GPU
 * Stack RAG acelerado específico para Orin Nano
 
-```
-```
+@Autor: Marlon Cárdenas
+2025
